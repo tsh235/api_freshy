@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Клубника со сливками",
+    "price": 270,
+    "image": "clubnik.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Лесные ягоды",
+    "price": 280,
+    "image": "yagod.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Лайм и мята",
+    "price": 260,
+    "image": "lam.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Банан",
+    "price": 260,
+    "image": "banan.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Киви и яблоко",
+    "price": 290,
+    "image": "kivi.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Манго",
+    "price": 380,
+    "image": "mango.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Маракуйя",
+    "price": 340,
+    "image": "maraka.jpg"
+  }
+]
