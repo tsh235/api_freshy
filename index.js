@@ -12,6 +12,11 @@ const ORDERS_FILE = 'orders.json';
 
 app.use(express.json());
 
+app.use((req, res, next) => {
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  next();
+});
+
 // GET /api/goods - возвращает данные из файла db.json
 app.get('/api/goods', async (req, res) => {
   try {
